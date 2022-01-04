@@ -9,7 +9,7 @@
 ➡️ (premium) 100% cusstomizable !⭐
 
 
-## Fuzzy logger was made in :
+ Fuzzy logger was made in :
 ```PYTHON
 1y, 3m
 ```
